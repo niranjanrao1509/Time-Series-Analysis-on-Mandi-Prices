@@ -1,18 +1,7 @@
-# SocialCops-Task
-
-The task for Social Cops Internship recruitment for Summer of 2019
-
-The Problem Statement:
-
-R&A | DS Task | APMC/Mandi
-
-Aim:
+#Time sereis Analysis
 
 
-* To understand trends in APMC (Agricultural produce market committee)/mandi price & quantity arrival data for different commodities in Maharashtra. 
-
-
-Objective:
+* To understand trends in APMC (Agricultural produce market committee)/mandi price & quantity arrival data for different commodities
 
 1. Test and filter outliers. 
 2. Understand price fluctuations accounting the seasonal effect
